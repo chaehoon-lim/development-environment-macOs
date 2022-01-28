@@ -3,7 +3,7 @@
 brew 'mas'
 # brew 'git-flow'
 brew 'python3'
-brew 'nvm'
+# brew 'nvm'
 brew "yarn"
 # brew 'watchman'
 # zsh is default in MacOS Catalina
