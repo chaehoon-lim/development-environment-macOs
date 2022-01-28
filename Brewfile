@@ -22,6 +22,7 @@ mas 'Amphetamine', id: 937984704
 mas 'TickTick', id: 966085870
 mas 'Cyberduck', id: 409222199
 mas 'Chat', id: 1108923769
+mas 'Jira', id: 1475897096
 
 # tap 'adoptopenjdk/openjdk'
 # cask 'adoptopenjdk8'
@@ -39,6 +40,9 @@ cask 'dropbox'
 cask 'keycastr'
 cask 'jandi'
 cask 'handbrake'
+cask 'bitwarden'
+cask 'dropbox'
+cask 'duet'
 # cask 'maccy'
 
 # setapp
