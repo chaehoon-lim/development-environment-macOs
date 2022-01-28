@@ -19,6 +19,9 @@ mas 'Magnet', id: 441258766
 mas 'JustFocus', id: 1142151959
 mas 'Leaf', id: 576338668
 mas 'Amphetamine', id: 937984704
+mas 'TickTick', id: 966085870
+mas 'Cyberduck', id: 409222199
+mas 'Chat', id: 1108923769
 
 # tap 'adoptopenjdk/openjdk'
 # cask 'adoptopenjdk8'
@@ -35,6 +38,7 @@ cask 'zeplin'
 cask 'dropbox'
 cask 'keycastr'
 cask 'jandi'
+cask 'handbrake'
 # cask 'maccy'
 
 # setapp
