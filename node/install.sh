@@ -5,7 +5,7 @@ source $(brew --prefix nvm)/nvm.sh
 # nvm install node
 
 nvm install 14
-brew install yarn
+# brew install yarn
 
 # fix version
 npm config set save-exact=true
