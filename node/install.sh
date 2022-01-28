@@ -4,11 +4,11 @@ source $(brew --prefix nvm)/nvm.sh
 # install latest node
 # nvm install node
 
-nvm install v12.16.1
+nvm install 14
 brew install yarn
 
 # fix version
 npm config set save-exact=true
 
 # install git open
-npm install --global git-open
+# npm install --global git-open
