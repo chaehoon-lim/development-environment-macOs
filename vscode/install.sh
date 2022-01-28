@@ -37,4 +37,4 @@ sudo xattr -dr com.apple.quarantine /Applications/Visual\ Studio\ Code.app
 # code --install-extension jpoissonnier.vscode-styled-components
 
 # copy vscode settings
-cp ./vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
+# cp ./vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
