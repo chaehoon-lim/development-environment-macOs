@@ -58,8 +58,8 @@ chmod 755 ./iterm2/install.sh
 ./iterm2/install.sh
 
 # install react-native
-# chmod 755 ./react-native/install.sh
-# ./react-native/install.sh
+chmod 755 ./react-native/install.sh
+./react-native/install.sh
 
 # install python3
 chmod 755 ./python/install.sh
